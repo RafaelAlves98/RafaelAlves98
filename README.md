@@ -18,7 +18,7 @@ Meu nome é Rafael Alves Andrade, tenho 26 anos e sou natural de São Carlos/SP.
 
 ## O que estou aprendendo atualmente
 
-- Programação web (front-end).
+- Desenvolvimento de Softwares e Web (Back-end e Front-end).
 - Desenvolvimento de sites responsivos.
 - Melhoria contínua em design e marketing digital.
 
