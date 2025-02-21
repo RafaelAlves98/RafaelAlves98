@@ -12,7 +12,7 @@ Meu nome é Rafael Alves Andrade, tenho 26 anos e sou natural de São Carlos/SP.
 
 ## Minhas Habilidades
 
-- Programação: Estou começando a jornada, aprendendo linguagens como **HTML**, **CSS**, e **JavaScript**.
+- Programação: Estou começando a jornada, aprendendo linguagens como **Java**, **Python**, **HTML**, **CSS**, e **JavaScript**.
 - Design: Habilidade avançada com ferramentas como **Photoshop**, **Illustrator** e **Figma**.
 - Estratégias de Marketing: Experiência em **Google Ads**, **Facebook Ads**, e **SEO**.
 
