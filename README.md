@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Meu nome é Rafael Alves Andrade, tenho 26 anos e sou natural de São Carlos/SP. Sou iniciante no mundo da programação, mas apaixonado por aprender e aprimorar minhas habilidades.
+Meu nome é Rafael Alves Andrade, tenho 27 anos e sou natural de São Carlos/SP. Sou iniciante no mundo da programação, mas apaixonado por aprender e aprimorar minhas habilidades.
 
 ### Além da programação, também sou:
 
