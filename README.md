@@ -25,7 +25,7 @@ Meu nome é Rafael Alves Andrade, tenho 28 anos e sou natural de São Carlos/SP.
 ## Conecte-se comigo
 
 - **LinkedIn**: [Rafael Alves Andrade](https://www.linkedin.com/in/rafael-alves-b9a989150/)
-- **Instagram**: [@rafaelalves](https://www.instagram.com/sevla.rafa98)
+- **Instagram**: [@rafaelalves](https://www.instagram.com/sevla.rafa)
 
 ## Projetos
 
